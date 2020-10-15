@@ -1,0 +1,57 @@
+﻿.mainimage{
+    width: 100%;
+}
+
+.navbar{
+    background-color: #fbfcfc;
+    size: 30px;
+}
+
+.foot{
+    width: 100%;
+    color: #fff;
+    background-color: black;
+    padding: 2% 2% 4% 2%;
+}
+
+.fa{
+    font-size: 25px;
+    color: #fff;
+    padding: 10px;
+}
+
+.imageEvent {
+    margin-left: 50px;
+    height: 140px;
+    width: 150px;
+}
+
+#base{
+    padding: 10px;
+    color: #ffffff;
+}
+
+.img-simple /*this class is used in logo in signup,login and reset */
+{
+    margin-left: 50px;
+    width: 100px;
+    height: 100px;
+}
+.signup  /*This tag is used to use to design form style in signup,events forms*/
+{
+    background-color: white;
+    width: 100%;
+    max-width: 400px;
+    min-height: 700px;
+    padding: 50px;
+    margin: 0 auto;
+}
+
+.form-signin  /*This tag is used to use to design form style in signup,events forms*/
+{
+    background-color: white;
+    width: 100%;
+    max-width: 400px;
+    padding: 50px;
+    margin: 0 auto;
+}
